@@ -32,7 +32,7 @@ De la downtempo à la techno acide, de la progressive à la psytrance en passant
 ---
 
 ### 🎛 Derniers mixes / releases
-
+infos
 | Date | Artiste | Plateforme | Lien |
 | --- | --- | --- | --- |
 | 27/05/2025 | Aerim | SoundCloud | [Momentum #2](https://soundcloud.com/valentin-perrose-val/momentum-2) |

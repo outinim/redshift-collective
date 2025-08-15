@@ -90,7 +90,7 @@ p {
     <a class="btn-soundcloud" href="https://soundcloud.com/redshift-collective" target="_blank">🎵 SoundCloud</a>
     <a class="btn-youtube" href="https://www.youtube.com/" target="_blank">📺 YouTube</a>
     <a class="btn-email" href="mailto:collective.redshift@gmail.com">📩 Contact / Booking</a>
-    <a class="btn-info" href="README.md">📄 Infos complètes</a>
+    <a class="btn-info" href="infos">📄 Infos complètes</a>
 </div>
 
 ---
