@@ -26,7 +26,7 @@ De la downtempo à la techno acide, de la progressive à la psytrance en passant
 
 - **Instagram :** [@redshift_collective](https://www.instagram.com/redshift_collective/)
 - **SoundCloud :** [soundcloud.com/redshift-collective](https://soundcloud.com/redshift-collective)
-- **YouTube / Mixcloud / Bandcamp :** —
+- **YouTube / Mixcloud / Bandcamp :** [@Redshift_collective](https://www.youtube.com/@Redshift_collective)
 - **Contact / Booking :** [collective.redshift@gmail.com](mailto:collective.redshift@gmail.com)
 
 ---
